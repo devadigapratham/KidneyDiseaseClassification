@@ -1,5 +1,5 @@
 from cnnClassifier.config.configuration import ConfigurationManager
-from cnnClassifier.componenents import DataIngestion
+from cnnClassifier.components import DataIngestion
 from cnnClassifier import logger
 
 STAGE_NAME = "Data Ingestion Stage"
